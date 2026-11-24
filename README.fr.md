@@ -1,6 +1,6 @@
 ![Ala Eddine Berrahal — Ingénieur en analyse de données à l’UCA / MEDiS](assets/header.svg)
 
-**[Portfolio en français](https://alaberrahal.github.io/fr/) · [LinkedIn](https://www.linkedin.com/in/ala-eddine-berrahal-726a81327) · [English version](README.md)**
+**[Portfolio en français](https://alaberrahal.github.io/fr/) · [LinkedIn](https://www.linkedin.com/in/ala-berrahal-726a81327/) · [E-mail](mailto:alaberrahal1999@gmail.com) · [English version](README.md)**
 
 Je suis **ingénieur en analyse de données à l’Université Clermont Auvergne**, au sein de l’**UMR 454 MEDiS**, avec une formation en mathématiques appliquées et en machine learning. Je m’intéresse aux approches statistiques pour les données complexes, en particulier biologiques et longitudinales.
 
@@ -25,13 +25,13 @@ Depuis novembre 2026, je travaille sur les **biostatistiques et le machine learn
 ### À découvrir
 
 - **[Portfolio scientifique](https://alaberrahal.github.io/fr/)** — mon parcours, mes méthodes et mes expériences de recherche, en français et en anglais.
-- **[poem](https://github.com/AlaBerrahal/poem)** — dépôt public lié à mon stage au LOCIE, fork du [dépôt de Simon Rouchier](https://github.com/srouchier/poem). Les auteurs et l’historique sont indiqués dans le dépôt.
+- **[poem — my_code](https://github.com/AlaBerrahal/poem/tree/my_code)** — mes notebooks de recherche au LOCIE : processus gaussiens, ARMAX, modèles de Markov cachés et régression logistique bayésienne. Le projet est un fork du [dépôt de Simon Rouchier](https://github.com/srouchier/poem) ; les attributions d’origine sont conservées.
 
 Les rubriques INRAE et UCA décrivent des expériences de recherche ; les notebooks d’analyse originaux et les données biologiques ne sont pas publiés dans ce dépôt de profil.
 
 ### Formation
 
-**Master 2 — Mathématiques appliquées et machine learning pour l’ingénierie**, Université Jean Monnet, Saint-Étienne, parcours Math en Action avec Mines Saint-Étienne (2025).  
+**Master 2 — MAEA, Mathématiques appliquées en action**, Université Jean Monnet, Saint-Étienne, parcours Mathématiques appliquées et machine learning pour l’ingénierie, avec Mines Saint-Étienne (2025).  
 **Master 2 — Mathématiques appliquées**, Algérie (2023).
 
-Basé à **Clermont-Ferrand, France**. Pour échanger autour des biostatistiques, des données longitudinales et de la modélisation probabiliste : **[LinkedIn](https://www.linkedin.com/in/ala-eddine-berrahal-726a81327)**.
+Basé à **Clermont-Ferrand, France**. Pour échanger autour des biostatistiques, des données longitudinales et de la modélisation probabiliste : **[LinkedIn](https://www.linkedin.com/in/ala-berrahal-726a81327/)** ou **[alaberrahal1999@gmail.com](mailto:alaberrahal1999@gmail.com)**.
